@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "holiday25:font/lobby_sign/cn.png",
+            "ascent": 42,
+            "height": 43,
+            "chars": ["精","鬼"]
+        }
+    ]
+}
