@@ -1,0 +1,32 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "holiday25:font/tag/zh_cn/elf.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["精"]
+        },
+        {
+            "type": "bitmap",
+            "file": "holiday25:font/tag/zh_cn/kid.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["鬼"]
+        },
+        {
+            "type": "bitmap",
+            "file": "holiday25:font/tag/zh_cn/trapped.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["补"]
+        },
+        {
+            "type": "bitmap",
+            "file": "holiday25:font/tag/zh_cn/spectator.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["观"]
+        }
+    ]
+}
